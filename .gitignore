@@ -1,1 +1,10 @@
 *.jpg
+FaceDetection/logs/*
+FaceDetection/fd/*
+FaceDetection/data/*
+FaceDetection/aug_data/*
+FaceDetection/.ipynb_checkpoints/
+FaceDetection/.virtual_documents/
+.vscode
+*.h5
+.DS_Store
